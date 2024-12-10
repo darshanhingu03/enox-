@@ -175,10 +175,12 @@ const Hero = () => {
             standard equipment in many different vehicles, including select
             high-performance vehicles.
           </p>
-          <div className="price-tag">
+       {/* 
             <p className="price">₹485.00</p>
-            {/* <p className="retail-price">$250.00</p> */}
-          </div>
+          <div className="price-tag">
+             <p className="retail-price">$250.00</p> 
+              
+          </div>*/}
           {/* <div className="description-btn">
 						<div className="quantity-wrapper">
 							<button className="min" onClick={decNum}></button>
